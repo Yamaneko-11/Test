@@ -1,12 +1,24 @@
 @charset "UTF-8";
 body {
     background-color: #fffeee;
+    background-image: url(images/sky_00199.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
 }
 
 h1{
     color: #0bd;
+    text-align: center;
 }
 
 p{
     font-size: 20px;
+}
+
+button{
+    font-size: 1.375rem;
+    background: #0bd;
+    color: #fff;
+    border-radius: 5px;
+    padding: 18px 32px;
 }
